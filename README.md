@@ -1,15 +1,15 @@
-🚀 New Version Available!
+## 🚀 New Version Available!
 
-This repository has been archived.
+**This repository has been archived.**
 
-The script has been completely rewritten in TypeScript with major improvements:
+The script has been completely rewritten in TypeScript with major improvements:  
+- ✨ **Interactive CLI** - no more manual ID hunting!
+- 🔄 **Full support for both legacy and new reusable Access Policies**
+- 📦 **Better error handling and user experience**
 
-    ✨ Interactive CLI - no more manual ID hunting!
-    🔄 Full support for both legacy and new reusable Access Policies
-    📦 Better error handling and user experience
+**👉 Check out the new version: [rouvenschandl/cloudflare-updater](https://github.com/rouvenschandl/cloudflare-updater)**
 
-👉 Check out the new version: @rouvenschandl/cloudflare-updater
-
+---
 **Project Description: Automated Cloudflare Access Policy Updater**
 
 **Project Goal:**
